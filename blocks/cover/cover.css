@@ -1,16 +1,22 @@
 .cover {
-	margin: 0 auto 92px;
+  margin: 12px auto 92px;
   max-width: 1184px;
 }
 
-@media (max-width: 1024px){
-	.cover {
-		max-width: 100%;
-	}
+@media (max-width: 1024px) {
+  .cover {
+    max-width: 100%;
+  }
 }
 
-@media (max-width: 768px){
-	.cover {
-		margin-bottom: 64px;
-	}
+@media (max-width: 768px) {
+  .cover {
+    margin-bottom: 88px;
+  }
+}
+
+@media (max-width: 630px) {
+  .cover {
+    margin: 16px 0 64px;
+  }
 }

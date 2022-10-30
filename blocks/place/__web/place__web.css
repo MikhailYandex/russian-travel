@@ -1,11 +1,9 @@
 .place__web {
-	margin: 0;
-	padding: 0;
-	align-self: flex-end;
+  align-self: flex-end;
 }
 
-@media (max-width: 630px){
-	  .place__web {
-			padding: 0 16px;
-		}
+@media (max-width: 630px) {
+  .place__web {
+    padding: 0 16px;
+  }
 }

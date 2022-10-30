@@ -10,11 +10,11 @@
   transition: all .3s ease;
 }
 
-@media (max-width: 425px){
-	.header__lang {
-		font-size: 18px;
-		line-height: 20px;
-	}
+@media (max-width: 425px) {
+  .header__lang {
+    font-size: 18px;
+    line-height: 20px;
+  }
 }
 
 .header__lang:hover {

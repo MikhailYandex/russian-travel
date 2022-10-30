@@ -1,7 +1,7 @@
 .header__langs {
-	list-style: none;
+  list-style: none;
 }
 
 .header__langs:not(:last-child) {
-	margin-right: 18px;
+  margin-right: 18px;
 }
