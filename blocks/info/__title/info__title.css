@@ -1,0 +1,15 @@
+.info__title {
+	margin: 0;
+	padding: 0;
+	font-style: normal;
+	font-weight: 900;
+	font-size: 49px;
+	line-height: 58px;
+}
+
+@media (max-width: 425px){
+	.info__title {
+		font-size: 32px;
+		line-height: 35px;
+	}
+}
