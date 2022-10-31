@@ -1,9 +1,13 @@
-.footer__item:not(:last-child) {
+.footer__item {
   margin-right: 18px;
 }
 
+.footer__item:last-child {
+  margin-right: 0;
+}
+
 @media (max-width: 520px) {
-  .footer__item:not(:last-child) {
+  .footer__item {
     margin: 0 0 32px 0;
   }
 

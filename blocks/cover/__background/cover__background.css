@@ -9,6 +9,7 @@
   color: #fff;
   position: relative;
   cursor: pointer;
+  transition: all 0.7s ease;
 }
 
 @media (max-width: 1024px) {
@@ -38,7 +39,7 @@
   bottom: 0;
   opacity: .3;
   background: #2A2C2F;
-  transition: all 0.5s ease;
+  transition: all 0.7s ease;
 }
 
 .cover__background:hover::before {
