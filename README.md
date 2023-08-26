@@ -7,12 +7,12 @@
 ![header screenshot](./images/preview.png)
 
 ### Используемые технологии
-* HTML5
-* CSS3
-* Flexbox
-* Grid Layout
-* BEM-методология
-* Файловая структура проекта по Nested БЭМ
+* HTML5;
+* CSS3;
+* Flexbox;
+* Grid Layout;
+* BEM-методология;
+* Файловая структура проекта по Nested БЭМ;
 
 **О проекте**
 Мобильная адаптивная вёрстка по макету в Figma.
