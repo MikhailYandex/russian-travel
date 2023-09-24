@@ -6,7 +6,7 @@
 
 ![header screenshot](./images/preview.png)
 
-### Используемые технологии
+### Используемые технологии:
 * HTML5;
 * CSS3;
 * Flexbox;
